@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/tdd-linquiz/v16
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/Tdd-linquiz/bin/Debug/netcoreapp3.1
+/Tdd-linquiz/obj
+/Tdd-linquiz/.vs/Tdd-linquiz/v16
